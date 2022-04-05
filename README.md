@@ -1,5 +1,6 @@
 # ApitTestePredito
 
-FOI UTILIZADO MIGRATION PARA CRIAÇÃO DA BASE E TABELAS EM SQL SERVER
+Foi ultilizado migration para criação da base e tabelas em SQL Server. 
+Necessário rodar comando para se criar o banco de dados
 
-NECESSÁRIO RODAR COMANDO PARA SE CRIAR O BANCO DE DADOS
+Comando: Update-Database
